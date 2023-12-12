@@ -21,7 +21,7 @@ header {
 .caja{
     
     position: relative;
-    width: 940px;
+    width: 94%;
     margin: 0 auto;
 }
 
@@ -184,8 +184,6 @@ td,th{
 .banner{
     width: 100%;
 }
-
-
 
 .principal{
     padding: 3em 0;
